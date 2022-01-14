@@ -31795,7 +31795,7 @@ aK(){return new A.FJ(B.n)}}
 A.FJ.prototype={
 Gp(){var s,r=null,q=Math.min(90*$.a8y.it()/100,300),p=this.c
 p.toString
-p=A.a8D("images/recall.svg",A.bf(p).a_.a.b,128,128)
+p=A.a8D("assets/images/recall.svg",A.bf(p).a_.a.b,128,128)
 s=this.c
 s.toString
 return new A.x3(A.jA(A.a39(A.b([p,new A.i0(B.hk,A.a8F("FlashBack is an AI powered learning system to help you actively recall content",A.bf(s).a_.a,B.f0,r),r),new A.y_(new A.a_g(),r,r,r,r,B.C,r,!1,B.Ix,r)],t.G),B.cA),q,q),r)},
@@ -31810,7 +31810,7 @@ n=A.bf(n)
 p=p.c
 p.toString
 s=t.G
-s=A.a39(A.b([B.eM,q,B.eM,o,B.eM,A.Lk(r,new A.i0(B.hk,A.a39(A.b([A.a8F("Download App",A.bf(p).a_.c,r,r),A.jA(r,16,r),A.a8m(A.b([A.a8D("images/appstore.svg",r,32,r),A.jA(r,r,32),A.a7e("images/playstore.png",r,48)],s),B.Cb,B.eB)],s),B.cA),r),n.ch,r,r,r,r)],s),B.cA)
+s=A.a39(A.b([B.eM,q,B.eM,o,B.eM,A.Lk(r,new A.i0(B.hk,A.a39(A.b([A.a8F("Download App",A.bf(p).a_.c,r,r),A.jA(r,16,r),A.a8m(A.b([A.a8D("assets/images/appstore.svg",r,32,r),A.jA(r,r,32),A.a7e("assets/images/playstore.png",r,48)],s),B.Cb,B.eB)],s),B.cA),r),n.ch,r,r,r,r)],s),B.cA)
 return A.jA(new A.BB(!0,s,r),r,1/0)},
 $C:"$3",
 $R:3,

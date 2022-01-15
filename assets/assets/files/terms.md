@@ -8,7 +8,7 @@ FlashBack is an app that displays flashcards on various topics.
 2. While effort is made to build a useful and knowledge-filled decks, FlashBack gives no guarantee on the absorption or usefulness of the content to the user.
 3. The app makes suggestions on when the deck needs to be flipped. However, that is not mandatory. The users may choose to flip a deck.
 4. Users are required to register in the app to access the decks.
-5. The Sigining in method is using an OTP (One Time Password) that is sent to the phone. Any charges for the same has to be borne by the user.
+5. The Sigining in method is using Google or Apple authentication. Other authentication methods may be added in future.
 
 ## Beta
 
